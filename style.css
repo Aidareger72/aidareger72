@@ -1,0 +1,94 @@
+* {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    height: 110px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.nav__inner_list {
+    width: 1240px;
+    height: 50px;
+    padding: 0 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8%;
+    margin-left: 30%;
+    font-size: unset;
+    margin-top: 8%;
+
+}
+
+a:hover {
+    color: blueviolet;
+    transition: 0.3s;
+}
+
+.nav__tank {
+    height: 100px;
+    width: 100px;
+    padding: 1%;
+
+}
+
+.couch {
+    margin-bottom: -55%;
+    margin-left: 59%;
+    height: 678%
+}
+
+.steam {
+    height: 221%;
+    margin-left: -80%;
+    margin-bottom: 13%;
+
+}
+
+h2 {
+    margin-left: 6%;
+    margin-top: 2%;
+    font-size: xxx-large;
+}
+
+
+.fullstack {
+    margin-left: 14%;
+    margin-top: -43%;
+    font-size: x-larg;
+}
+
+.clickme {
+    color: aliceblue;
+    background-color: darkblue;
+    margin-left: 21%;
+    margin-top: 1%;
+    padding: 1%;
+    font-size: initial;
+}
+
+hr {
+    padding: 30%;
+    width: 30%;
+}
+
+ul {
+    list-style: none;
+    padding: 35%;
+    margin-top: -51%;
+    margin-left: -27%;
+    font-size: x-large
+}
